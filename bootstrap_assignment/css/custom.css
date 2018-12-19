@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush');
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.container {
+	font-family: 'Caveat Brush', cursive;
+	font-size: 22px;
+}
+.btn-primary {
+	background-color: #6fde73;
+	border-color: #6fde73;
+}
+a.nav-link:hover {
+	background-color: #6fde73; 
+}
+navbar-toggler {
+	background-color: #6fde73; 
+
+}
+a.dropdown-item:hover {
+	background-color: #ffe926
+}
+
+.card-img-top:hover {
+	border-style: solid;
+	border-color: #6fde73;
+}
+.card {
+	border: #ffe926;
+}
+.navbar-light .navbar-toggler-icon {
+	background-image: background-image: url("data:images/logo.jpg");
+}
