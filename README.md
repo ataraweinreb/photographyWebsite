@@ -1,2 +1,2 @@
 # photographyWebsite
-A responsive photography website created with bootstrap. 
+A fully responsive photography portfolio website created from scratch with bootstrap. 
